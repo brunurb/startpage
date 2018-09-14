@@ -84,6 +84,7 @@ var linkMenu = [
   ["tviplayer",                "http://tviplayer.iol.pt/direto/TVI24",""],
   ["rtp",                      "https://www.rtp.pt/play/direto/rtp3",""],
   ["twitter",                  "https://twitter.com",""],
+   ["cwseed",                  "http://www.cwseed.com/",""]
 ];
 // DID I FORGET TO MENTION?! THE DEMO LINKS DO NOTHING!
 
