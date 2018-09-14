@@ -48,13 +48,13 @@ var svgTrash   = "<svg style=\"width:24px;height:24px\" xmlns=\"http://www.w3.or
 var linkMenu = [
   [svgTrash,                   "blue",                                        "-HEAD-"], // Anime
   ["gravit designer",          "https://designer.gravit.io/",""],
-  ["openclipart",              "https://openclipart.org/",""],
+  ["canva",                    "https://www.canva.com/",""],
   ["spreadshirt",              "https://partner.spreadshirt.co.uk/designs",""],
   ["discord",                  "https://discordapp.com/",""],
   
   [svgSocial,                  "green",                                       "-HEAD-"], // Media
   ["YouTube",                  "https://www.youtube.com/",""],
-  ["Facebook",                 "",""],
+  ["openclipart",              "https://openclipart.org/",""],
   ["Reddit",                   "https://www.reddit.com/",""],
   ["Twitch",                   "https://www.twitch.tv/",""],
   ["DeviantArt",               "https://www.deviantart.com/brunurb",""],
