@@ -1,6 +1,6 @@
 (function() {
   $.simpleWeather({
-    location: 'Molina de Segura, Murcia',
+    location: 'Lisboa, Portrugal',
     woeid: '',
     unit: 'c',
     success: function(weather) {
