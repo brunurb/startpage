@@ -309,6 +309,27 @@ textarea {
   bottom: 20px;
 }
 
+/*====================*/
+/*== Widget weather ==*/
+/*====================*/
+
+.widget {
+  top: 40px;
+  left: 20px;
+  position: fixed;
+  opacity: 0;
+  transition: opacity 0.2s cubic-bezier(0.4, 0.0, 0.2, 1) 0.05s;
+}
+.widget.align-right {
+  left: initial;
+  right: 20px;
+  text-align: right;
+}
+.widget.align-bottom {
+  top: initial;
+  bottom: 40px;
+}
+
 /*============*/
 /*== Notes ==*/
 /*==========*/
