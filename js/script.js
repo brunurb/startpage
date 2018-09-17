@@ -29,7 +29,7 @@ var searchSources = [
 ];
 
 // Because I care about readability in my JS. kthx.
-var svgClover  = "<svg style=\"width:24px;height:24px\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M3 5h4v1H3V5zm0 3h4V7H3v1zm0 2h4V9H3v1zm11-5h-4v1h4V5zm0 2h-4v1h4V7zm0 2h-4v1h4V9zm2-6v9c0 .55-.45 1-1 1H9.5l-1 1-1-1H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h5.5l1 1 1-1H15c.55 0 1 .45 1 1zm-8 .5L7.5 3H2v9h6V3.5zm7-.5H9.5l-.5.5V12h6V3z\" /></svg>;
+var svgClover  = "<svg style=\"width:24px;height:24px\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M3 5h4v1H3V5zm0 3h4V7H3v1zm0 2h4V9H3v1zm11-5h-4v1h4V5zm0 2h-4v1h4V7zm0 2h-4v1h4V9zm2-6v9c0 .55-.45 1-1 1H9.5l-1 1-1-1H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h5.5l1 1 1-1H15c.55 0 1 .45 1 1zm-8 .5L7.5 3H2v9h6V3.5zm7-.5H9.5l-.5.5V12h6V3z\" /></svg>";
 var svgCode    = "<svg style=\"width:24px;height:24px\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M8,3A2,2 0 0,0 6,5V9A2,2 0 0,1 4,11H3V13H4A2,2 0 0,1 6,15V19A2,2 0 0,0 8,21H10V19H8V14A2,2 0 0,0 6,12A2,2 0 0,0 8,10V5H10V3M16,3A2,2 0 0,1 18,5V9A2,2 0 0,0 20,11H21V13H20A2,2 0 0,0 18,15V19A2,2 0 0,1 16,21H14V19H16V14A2,2 0 0,1 18,12A2,2 0 0,1 16,10V5H14V3H16Z\" /></svg>";
 var svgGamepad = "<svg style=\"width:24px;height:24px\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M7,6H17A6,6 0 0,1 23,12A6,6 0 0,1 17,18C15.22,18 13.63,17.23 12.53,16H11.47C10.37,17.23 8.78,18 7,18A6,6 0 0,1 1,12A6,6 0 0,1 7,6M6,9V11H4V13H6V15H8V13H10V11H8V9H6M15.5,12A1.5,1.5 0 0,0 14,13.5A1.5,1.5 0 0,0 15.5,15A1.5,1.5 0 0,0 17,13.5A1.5,1.5 0 0,0 15.5,12M18.5,9A1.5,1.5 0 0,0 17,10.5A1.5,1.5 0 0,0 18.5,12A1.5,1.5 0 0,0 20,10.5A1.5,1.5 0 0,0 18.5,9Z\" /></svg>";
 var svgMore    = "<svg style=\"width:24px;height:24px\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M16,12A2,2 0 0,1 18,10A2,2 0 0,1 20,12A2,2 0 0,1 18,14A2,2 0 0,1 16,12M10,12A2,2 0 0,1 12,10A2,2 0 0,1 14,12A2,2 0 0,1 12,14A2,2 0 0,1 10,12M4,12A2,2 0 0,1 6,10A2,2 0 0,1 8,12A2,2 0 0,1 6,14A2,2 0 0,1 4,12Z\" /></svg>";
@@ -53,32 +53,32 @@ var linkMenu = [
   ["discord",                  "https://discordapp.com/",""],
   ["GIFVideo",                 "https://ezgif.com/",""],
   
-  [svgSocial,                  "green",                                       "-HEAD-"], // Media
+  [svgSocial,                  "white",                                       "-HEAD-"], // Media
   ["YouTube",                  "https://www.youtube.com/",""],
   ["openclipart",              "https://openclipart.org/",""],
   ["Reddit",                   "https://www.reddit.com/",""],
   ["Twitch",                   "https://www.twitch.tv/",""],
   ["DeviantArt",               "https://www.deviantart.com/brunurb",""],
   
-  [svgClover,                  "cyan",                                        "-HEAD-"], // 4chan
+  [svgClover,                  "white",                                        "-HEAD-"], // 4chan
   ["FeedReader",               "https://www-inoreader.com/",""],
   ["/g/ Technology",           "",""],
   ["/w/ Anime/Wallpapers",     "",""],
   ["/wg/ Wallpaper/General",   "",""],
   
-  [svgCode,                    "red",                                         "-HEAD-"], // FuelRats
+  [svgCode,                    "white",                                         "-HEAD-"], // FuelRats
   ["GitHub",                   "https://github.com/brunurb",""],
   ["Gist",                     "",""],
   ["JSFiddle",                 "",""],
   ["Stack Overflow",           "https://stackoverflow.com",""],
   
-  [svgGamepad,                 "magenta",                                     "-HEAD-"], // Gaming
+  [svgGamepad,                 "white",                                     "-HEAD-"], // Gaming
   ["Steam",                    "",""],
   ["Humble Bundle",            "",""],
   ["GOG.com",                  "",""],
   ["/r/gaming",                "",""],
   
-  [svgMore,                    "yellow",                                      "-HEAD-"], // Other
+  [svgMore,                    "white",                                      "-HEAD-"], // Other
   ["Gmail",                    "https://mail.google.com/mail/u/0/#inbox",""],
   ["Amazon",                   "https://merch.amazon.com/landing",""],
   ["mkvcage",                  "http://www.mkvcage.com/",""],
