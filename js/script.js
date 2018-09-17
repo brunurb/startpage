@@ -49,6 +49,7 @@ var linkMenu = [
   [svgTrash,                   "white",                                        "-HEAD-"], // Anime
   ["gravit designer",          "https://designer.gravit.io/",""],
   ["canva",                    "https://www.canva.com/",""],
+  ["vectorizer",                    "https://www.vectorizer.io/",""],
   ["spreadshirt",              "https://partner.spreadshirt.co.uk/designs",""],
   ["discord",                  "https://discordapp.com/",""],
   ["GIFVideo",                 "https://ezgif.com/",""],
