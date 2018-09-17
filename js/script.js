@@ -51,7 +51,7 @@ var linkMenu = [
   ["canva",                    "https://www.canva.com/",""],
   ["spreadshirt",              "https://partner.spreadshirt.co.uk/designs",""],
   ["discord",                  "https://discordapp.com/",""],
-  ["GIFVideo",        "https://ezgif.com/",""],
+  ["GIFVideo",                 "https://ezgif.com/",""],
   
   [svgSocial,                  "green",                                       "-HEAD-"], // Media
   ["YouTube",                  "https://www.youtube.com/",""],
@@ -61,7 +61,7 @@ var linkMenu = [
   ["DeviantArt",               "https://www.deviantart.com/brunurb",""],
   
   [svgClover,                  "cyan",                                        "-HEAD-"], // 4chan
-  ["GIFVideo",        "https://www-inoreader.com/",""],
+  ["FeedReader",               "https://www-inoreader.com/",""],
   ["/g/ Technology",           "",""],
   ["/w/ Anime/Wallpapers",     "",""],
   ["/wg/ Wallpaper/General",   "",""],
