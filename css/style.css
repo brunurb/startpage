@@ -325,15 +325,6 @@ textarea {
   opacity: 0;
   transition: opacity 0.2s cubic-bezier(0.4, 0.0, 0.2, 1) 0.05s;
 }
-.widgetw.align-right {
-  left: initial;
-  right: 20px;
-  text-align: right;
-}
-.widgetw.align-bottom {
-  top: initial;
-  bottom: 40px;
-}
 
 /*============*/
 /*== Notes ==*/
