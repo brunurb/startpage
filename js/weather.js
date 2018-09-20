@@ -1,6 +1,6 @@
 (function() {
   $.simpleWeather({
-    location: 'Lisboa, Portrugal',
+    location: 'Lisboa, Portugal',
     woeid: '',
     unit: 'c',
     success: function(weather) {
