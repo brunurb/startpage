@@ -319,9 +319,10 @@ textarea {
 /*====================*/
 
 .widgetw {
-  top: 40px;
-  left: 20px;
-  position: fixed;
+  
+  position: absolute;
+    bottom: 8px;
+    right: 16px;
   opacity: 0;
   transition: opacity 0.2s cubic-bezier(0.4, 0.0, 0.2, 1) 0.05s;
 }
