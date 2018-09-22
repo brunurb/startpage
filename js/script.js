@@ -62,7 +62,7 @@ var linkMenu = [
   ["DeviantArt",               "https://www.deviantart.com/brunurb",""],
   
   [svgClover,                  "white",                                        "-HEAD-"], // 4chan
-  ["FeedReader",               "https://www-inoreader.com/",""],
+  ["FeedReader",               "https://www.inoreader.com/",""],
   ["/g/ Technology",           "",""],
   ["/w/ Anime/Wallpapers",     "",""],
   ["/wg/ Wallpaper/General",   "",""],
