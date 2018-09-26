@@ -81,7 +81,7 @@ var linkMenu = [
   
   [svgMore,                    "white",                                      "-HEAD-"], // Other
   ["Gmail",                    "https://mail.google.com/",""],
-  ["Gmail",                    "https://inbox.google.com/",""],
+  ["inbox",                    "https://inbox.google.com/",""],
   ["Amazon",                   "https://merch.amazon.com/landing",""],
   ["mkvcage",                  "http://www.mkvcage.com/",""],
   ["tviplayer",                "http://tviplayer.iol.pt/direto/TVI24",""],
