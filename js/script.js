@@ -80,8 +80,8 @@ var linkMenu = [
   ["/r/gaming",                "",""],
   
   [svgMore,                    "white",                                      "-HEAD-"], // Other
-  ["Gmail",                    "https://mail.google.com/mail/u/0/#inbox",""],
-  ["Gmail",                    "https://inbox.google.com/u/0/?pli=1",""],
+  ["Gmail",                    "https://mail.google.com/",""],
+  ["Gmail",                    "https://inbox.google.com/",""],
   ["Amazon",                   "https://merch.amazon.com/landing",""],
   ["mkvcage",                  "http://www.mkvcage.com/",""],
   ["tviplayer",                "http://tviplayer.iol.pt/direto/TVI24",""],
