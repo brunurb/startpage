@@ -75,9 +75,17 @@ var linkMenu = [
   
   [svgGamepad,                 "white",                                     "-HEAD-"], // Gaming
   ["Steam",                    "",""],
-  ["Humble Bundle",            "",""],
-  ["GOG.com",                  "",""],
-  ["/r/gaming",                "",""],
+  ["moddb",            "https://www.moddb.com/",""],
+  ["0 A.D.",                  "https://play0ad.com/",""],
+  ["openra",                "http://www.openra.net/",""],
+   ["flightgear",                "http://home.flightgear.org/",""],
+    ["opencity",                    "http://www.opencity.info/",""],
+    ["Steam",                    "",""],
+    ["Steam",                    "",""],
+    ["Steam",                    "",""],
+    ["Steam",                    "",""],
+    ["Steam",                    "",""],
+    ["Steam",                    "",""],
   
   [svgMore,                    "white",                                      "-HEAD-"], // Other
   ["Gmail",                    "https://mail.google.com/",""],
