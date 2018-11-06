@@ -60,6 +60,7 @@ var linkMenu = [
   ["Reddit",                   "https://www.reddit.com/",""],
   ["Twitch",                   "https://www.twitch.tv/",""],
   ["DeviantArt",               "https://www.deviantart.com/brunurb",""],
+  ["music-map",                   "https://www.music-map.com/",""],
   
   [svgClover,                  "white",                                        "-HEAD-"], // 4chan
   ["FeedReader",               "https://www.inoreader.com/",""],
