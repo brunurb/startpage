@@ -73,7 +73,7 @@ var linkMenu = [
   ["Gist",                     "",""],
   ["JSFiddle",                 "",""],
   ["Stack Overflow",           "https://stackoverflow.com",""],
-  
+   
   [svgGamepad,                 "white",                                     "-HEAD-"], // Gaming
   ["Steam",                    "",""],
   ["moddb",            "https://www.moddb.com/",""],
@@ -90,6 +90,7 @@ var linkMenu = [
   
   [svgMore,                    "white",                                      "-HEAD-"], // Other
   ["Gmail",                    "https://mail.google.com/",""],
+  ["weboas.is",           "  https://weboas.is/",""],
   ["inbox",                    "https://inbox.google.com/",""],
   ["Amazon",                   "https://merch.amazon.com/landing",""],
   ["mkvcage",                  "http://www.mkvcage.com/",""],
