@@ -53,6 +53,7 @@ var linkMenu = [
   ["spreadshirt",              "https://partner.spreadshirt.co.uk/designs",""],
   ["discord",                  "https://discordapp.com/",""],
   ["GIFVideo",                 "https://ezgif.com/",""],
+  ["scantheworld",                 "https://www.myminifactory.com/scantheworld/",""],
   
   [svgSocial,                  "white",                                       "-HEAD-"], // Media
   ["YouTube",                  "https://www.youtube.com/",""],
@@ -62,11 +63,18 @@ var linkMenu = [
   ["DeviantArt",               "https://www.deviantart.com/brunurb",""],
   ["music-map",                   "https://www.music-map.com/",""],
   
-  [svgClover,                  "white",                                        "-HEAD-"], // 4chan
+  [svgClover,                  "white",                                        "-HEAD-"], // tools
   ["FeedReader",               "https://www.inoreader.com/",""],
-  ["/g/ Technology",           "",""],
-  ["/w/ Anime/Wallpapers",     "",""],
-  ["/wg/ Wallpaper/General",   "",""],
+  ["glitch",           "https://glitch.com/",""],
+  ["pdfcandy",     "https://pdfcandy.com/",""],
+  ["paletton",   "http://www.paletton.com",""],
+ ["Font design",   "https://www.metaflop.com/modulator",""],
+  ["photopea",   "https://www.photopea.com/",""],
+  ["symbolab",   "https://www.symbolab.com/",""],
+    ["gdeltproject",   "https://www.gdeltproject.org/",""],
+  ["gdeltproject",   "https://github.com/sindresorhus/awesome",""],
+   ["touch-mapper",   "https://www.touch-mapper.org/en/",""],
+  
   
   [svgCode,                    "white",                                         "-HEAD-"], // FuelRats
   ["GitHub",                   "https://github.com/brunurb",""],
@@ -93,7 +101,6 @@ var linkMenu = [
   ["weboas.is",           "  https://weboas.is/",""],
   ["inbox",                    "https://inbox.google.com/",""],
   ["Amazon",                   "https://merch.amazon.com/landing",""],
-  ["mkvcage",                  "http://www.mkvcage.com/",""],
   ["torrents",                 "https://rarbgunblock.com/torrents.php",""],
   ["tviplayer",                "http://tviplayer.iol.pt/direto/TVI24",""],
   ["rtp",                      "https://www.rtp.pt/play/direto/rtp3",""],
