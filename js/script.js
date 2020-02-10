@@ -98,6 +98,7 @@ var linkMenu = [
   
   [svgMore,                    "white",                                      "-HEAD-"], // Other
   ["Gmail",                    "https://mail.google.com/",""],
+  ["weboas.is",           "https://the-eye.eu//",""],
   ["weboas.is",           "  https://weboas.is/",""],
   ["inbox",                    "https://inbox.google.com/",""],
   ["Amazon",                   "https://merch.amazon.com/landing",""],
