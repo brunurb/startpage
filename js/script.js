@@ -98,15 +98,15 @@ var linkMenu = [
   
   [svgMore,                    "white",                                      "-HEAD-"], // Other
   ["Gmail",                    "https://mail.google.com/",""],
-  ["weboas.is",           "https://the-eye.eu//",""],
-  ["weboas.is",           "  https://weboas.is/",""],
+  ["the-eye",                  "https://the-eye.eu//",""],
+  ["weboas.is",                "https://weboas.is/",""],
   ["inbox",                    "https://inbox.google.com/",""],
   ["Amazon",                   "https://merch.amazon.com/landing",""],
   ["torrents",                 "https://rarbgunblock.com/torrents.php",""],
   ["tviplayer",                "http://tviplayer.iol.pt/direto/TVI24",""],
   ["rtp",                      "https://www.rtp.pt/play/direto/rtp3",""],
   ["twitter",                  "https://twitter.com",""],
-  ["cwseed",                  "http://www.cwseed.com/",""]
+  ["cwseed",                   "http://www.cwseed.com/",""]
 ];
 // DID I FORGET TO MENTION?! THE DEMO LINKS DO NOTHING!
 
