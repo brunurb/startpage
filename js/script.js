@@ -54,7 +54,7 @@ var linkMenu = [
   ["discord",                  "https://discordapp.com/",""],
   ["GIFVideo",                 "https://ezgif.com/",""],
   ["scantheworld",                 "https://www.myminifactory.com/scantheworld/",""],
-  ["scantheworld",                 "https://artbreeder.com",""],
+  ["artbreeder",                 "https://artbreeder.com",""],
   
   [svgSocial,                  "white",                                       "-HEAD-"], // Media
   ["YouTube",                  "https://www.youtube.com/",""],
