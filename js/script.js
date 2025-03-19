@@ -57,6 +57,7 @@ var linkMenu = [
   ["artbreeder",                 "https://artbreeder.com",""],
   
   [svgSocial,                  "white",                                       "-HEAD-"], // Media
+  ["fmhy",                  "https://fmhy.vercel.app/",""],
   ["YouTube",                  "https://www.youtube.com/",""],
   ["openclipart",              "https://openclipart.org/",""],
   ["Reddit",                   "https://www.reddit.com/",""],
